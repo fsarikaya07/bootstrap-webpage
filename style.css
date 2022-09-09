@@ -3,5 +3,18 @@
 }
 small{
     font-size: 1rem;
-    
+
+}
+.bg {
+    background-image: url(https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649_960_720.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.bg .container {
+    height: 90vh;    
+}
+.contact{
+    background-color: #709775d9;
+    box-shadow: 4px 4px 4px black;
+    border-radius: 8px;
 }
